@@ -1,0 +1,3 @@
+I am attesting that this GitHub handle darabiparham is linked to the Tezos account tz1MBG6vizNJFwpJAJAw76fp9WREpiaAZpbT for tzprofiles
+
+sig:edsigtsL6PKgaGumUqa6UoFgt43doMtYS97bNUa3ozsj118qhQoxuZLK4vze82Edt2cLLZjuoTErADiRdPiSRmmxAneuoDJEgrA
